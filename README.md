@@ -10,7 +10,7 @@ Cryptocurrency Tracker
 
 ### API 
 
-[coincap.io](https://coincap.io/)
+[coincap.io](https://docs.coincap.io/)
 
 ### Create new project
 
