@@ -2,18 +2,24 @@
 
 Cryptocurrency Tracker
 
+[Web Demo](https://cryptospace.surge.sh/)
+
 ![cryptospace](https://user-images.githubusercontent.com/26859947/121122772-054ddf00-c7f0-11eb-95b4-683f83f5dfa2.png)
 
 [Slides and Assets](https://drive.google.com/drive/folders/1URk9h1hyBR1w9rNcyUesPKCHVcq_R-l3?usp=sharing)
 
-### Create new project
+## API 
+
+[coincap.io](https://coincap.io/)
+
+## Create new project
 
 ```bash
 $ flutter create cryptospace
 $ cd cryptospace
 ```
 
-### Add the necessary dependencies and configure launcher icon and splash screen
+## Add the necessary dependencies and configure launcher icon and splash screen
 
 ```yaml
 dependencies:
@@ -43,13 +49,13 @@ flutter_native_splash:
   ios: true
 ```
 
-### Create the file `analysis_options.yaml` in the root directory and add the following line
+## Create the file `analysis_options.yaml` in the root directory and add the following line
 
 ```yaml
 include: package:lint/analysis_options.yaml
 ```
 
-### Add asset and font directories to `pubspec.yaml`
+## Add asset and font directories to `pubspec.yaml`
 
 ```yaml
   assets:
