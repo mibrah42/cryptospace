@@ -4,7 +4,7 @@ Cryptocurrency Tracker
 
 [Web Demo](https://cryptospace.surge.sh/)
 
-![cryptospace](https://user-images.githubusercontent.com/26859947/121122772-054ddf00-c7f0-11eb-95b4-683f83f5dfa2.png)
+![cryptospace](https://user-images.githubusercontent.com/26859947/130743604-76a5c67d-59d9-4bd6-8f3f-8de60d12017d.png)
 
 [Slides and Assets](https://drive.google.com/drive/folders/1_FlldcNUqCAPTORbnfyKKBsKpdc-3xBR?usp=sharing)
 
